@@ -1,3 +1,3 @@
 # Demo_repo
 
-This is a sample demo file.
+This is a sample demo project.
